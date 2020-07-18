@@ -1,4 +1,4 @@
-[![travis](https://travis-ci.org/GITHUB_USERNAME/biodemo.svg?branch=master)](https://travis-ci.org/GITHUB_USERNAME/biodemo)
+[![travis](https://travis-ci.org/matuskalas/biodemo.svg?branch=master)](https://travis-ci.org/matuskalas/biodemo)
 
 # Overview 
 
@@ -8,7 +8,7 @@ In the examples below, `$` indicates the command line prompt.
 
 # Licence
 
-This program is released as open source software under the terms of [MIT License](https://raw.githubusercontent.com/GITHUB_USERNAME/biodemo/master/LICENSE).
+This program is released as open source software under the terms of [MIT License](https://raw.githubusercontent.com/matuskalas/biodemo/master/LICENSE).
 
 # Installing
 
@@ -18,7 +18,7 @@ You can install biodemo directly from the source code or build and run it from w
 
 Clone this repository: 
 ```
-$ git clone https://github.com/GITHUB_USERNAME/biodemo
+$ git clone https://github.com/matuskalas/biodemo
 ```
 
 Move into the repository directory:
@@ -277,4 +277,4 @@ $ cwltool biodemo.cwl --fasta_file file.fasta
 
 Please submit bug reports and feature requests to the issue tracker on GitHub:
 
-[biodemo issue tracker](https://github.com/GITHUB_USERNAME/biodemo/issues)
+[biodemo issue tracker](https://github.com/matuskalas/biodemo/issues)
